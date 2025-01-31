@@ -1,0 +1,7 @@
+pandas
+flask
+crawl4ai
+flask_session
+flask_sqlalchemy
+beautifulsoup4
+sqlalchemy
