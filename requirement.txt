@@ -5,3 +5,5 @@ flask_session
 flask_sqlalchemy
 beautifulsoup4
 sqlalchemy
+playwright
+gunicorn
